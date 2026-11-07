@@ -1,0 +1,69 @@
+PROJECT PCD SESI 5 - SPATIAL FILTERING
+============================================================
+Nama citra: image.jpg
+Ukuran citra: (556, 830)
+
+
+Citra Asli
+Minimum: 0.30
+Maksimum: 253.45
+Rata-rata: 137.69
+Standar deviasi: 50.68
+Piksel tengah: 109.79
+Rata-rata perubahan: 0.00
+
+Mean Filter 3x3
+Minimum: 3.80
+Maksimum: 248.21
+Rata-rata: 137.69
+Standar deviasi: 50.46
+Piksel tengah: 106.94
+Rata-rata perubahan: 1.06
+
+Mean Filter 5x5
+Minimum: 5.56
+Maksimum: 238.70
+Rata-rata: 137.69
+Standar deviasi: 50.25
+Piksel tengah: 105.89
+Rata-rata perubahan: 1.61
+
+Gaussian Filter 3x3
+Minimum: 3.10
+Maksimum: 249.32
+Rata-rata: 137.69
+Standar deviasi: 50.50
+Piksel tengah: 107.84
+Rata-rata perubahan: 0.80
+
+Gaussian Filter 5x5
+Minimum: 5.19
+Maksimum: 244.16
+Rata-rata: 137.69
+Standar deviasi: 50.37
+Piksel tengah: 106.83
+Rata-rata perubahan: 1.21
+
+Median Filter 3x3
+Minimum: 3.85
+Maksimum: 251.41
+Rata-rata: 137.68
+Standar deviasi: 50.57
+Piksel tengah: 107.15
+Rata-rata perubahan: 0.72
+
+Median Filter 5x5
+Minimum: 5.77
+Maksimum: 245.73
+Rata-rata: 137.66
+Standar deviasi: 50.48
+Piksel tengah: 107.15
+Rata-rata perubahan: 1.27
+
+Sharpening
+Minimum: 0.00
+Maksimum: 255.00
+Rata-rata: 137.68
+Standar deviasi: 52.04
+Piksel tengah: 116.95
+Rata-rata perubahan: 3.66
